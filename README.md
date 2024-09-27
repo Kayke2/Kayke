@@ -19,6 +19,14 @@ Espaço de Armazenamento: Compartimentos para armazenar equipamentos, como colet
 Pontos de Anexo: Para acessórios como coolers ou varas de pescar.
 
 5. Desempenho
+
+6. Acessórios
+Pode vir com remo, coletes salva-vidas e outros itens, dependendo do pacote de lançamento.
+
+7. Utilização
+Ótimo para passeios recreativos, pesca, e até expedições de um dia.
+
+8. Manutenção
 Estabilidade: Excelente para iniciantes e experientes, com boa resposta em águas calmas e um pouco mais agitadas.
 Velocidade: Ideal para passeios relaxantes, mas pode ter um desempenho competitivo em águas abertas.
 
